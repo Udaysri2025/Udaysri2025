@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Uday Sri Yaramati
 
-🚀 **Student | Builder | Future Founder**
+🚀 **Student | Builder | Innovator | Future Founder**
 
 ---
 
