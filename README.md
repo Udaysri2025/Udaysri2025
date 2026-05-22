@@ -15,7 +15,7 @@
 ## 🌱 Currently
 
 * 🎓 B.Tech 3rd Year Student
-* 💻 Learning: Web Development, Startup Building, Real-world Problem Solving
+* 💻 Learning: Agentic AI, UI/UX Designing, Startup Building, Real-world Problem Solving
 * 🧠 Growing mindset towards **innovation & entrepreneurship**
 
 ---
@@ -30,7 +30,7 @@
 
 ## 💞️ Open To Collaborate On
 
-* Web development projects
+* AI projects
 * Startup ideas & student communities
 * Tech + innovation-based initiatives
 
